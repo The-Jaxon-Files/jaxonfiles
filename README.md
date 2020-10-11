@@ -1,6 +1,6 @@
 # The Jaxon Files
 
-![Logo](http://jaxonfiles.com/logo3.png)
+<img src="logo3.png" width="200" height="200" />
 
 Welcome to [The Jaxon Files](http://www.jaxonfiles.com/), an educational platform designed for your success or strive for knowledge. Our goal is to ensure your learning and basic foundation of standard courses, such as literature and science by building upon your current knowledge and expanding it to levels that you have only ever dreamed of reaching. Put yourself in our hands, and we will take you on a journey of intellectual ingenuity to broaden your horizons, open up new opportunities, and develop future skills that might be useful in a working environment.
 
